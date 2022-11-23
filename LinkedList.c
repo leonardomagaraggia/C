@@ -30,7 +30,7 @@ int main()
 
     printList(list);
 
-    printf("POSIZIONE %s: %d","Leonardo Da Vinci",indexOf(list,"Leonardo Da Vinci"));
+    printf("POSIZIONE %s: %d","'Leonardo Da Vinci'",indexOf(list,"Leonardo Da Vinci"));
 
     printf("\n");
     return 0;
